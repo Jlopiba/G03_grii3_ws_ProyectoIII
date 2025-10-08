@@ -1,0 +1,3 @@
+[console_scripts]
+auto_turtle = g03_prii3_turtlesim.auto_turtle:main
+

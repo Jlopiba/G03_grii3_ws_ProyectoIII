@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating g03_prii3_turtlesim.egg-info
+writing g03_prii3_turtlesim.egg-info/PKG-INFO
+writing dependency_links to g03_prii3_turtlesim.egg-info/dependency_links.txt
+writing entry points to g03_prii3_turtlesim.egg-info/entry_points.txt
+writing requirements to g03_prii3_turtlesim.egg-info/requires.txt
+writing top-level names to g03_prii3_turtlesim.egg-info/top_level.txt
+writing manifest file 'g03_prii3_turtlesim.egg-info/SOURCES.txt'
+reading manifest file 'g03_prii3_turtlesim.egg-info/SOURCES.txt'
+writing manifest file 'g03_prii3_turtlesim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/lib/python3.8/site-packages/site.py
+Creating /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/lib/python3.8/site-packages/g03-prii3-turtlesim.egg-link (link to .)
+Installing auto_turtle script to /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/lib/g03_prii3_turtlesim
+
+Installed /home/usuario/Proyecto3/g03_prii3_ws/build/g03_prii3_turtlesim
+running symlink_data
+creating /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/share/ament_index
+creating /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/share/ament_index/resource_index
+creating /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/share/ament_index/resource_index/packages
+symbolically linking /home/usuario/Proyecto3/g03_prii3_ws/build/g03_prii3_turtlesim/resource/g03_prii3_turtlesim -> /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/share/ament_index/resource_index/packages
+symbolically linking /home/usuario/Proyecto3/g03_prii3_ws/build/g03_prii3_turtlesim/package.xml -> /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/share/g03_prii3_turtlesim
+creating /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/share/g03_prii3_turtlesim/launch
+symbolically linking /home/usuario/Proyecto3/g03_prii3_ws/build/g03_prii3_turtlesim/launch/auto_turtle_launch.py -> /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/share/g03_prii3_turtlesim/launch
+symbolically linking /home/usuario/Proyecto3/g03_prii3_ws/build/g03_prii3_turtlesim/launch/draw_group.launch.py -> /home/usuario/Proyecto3/g03_prii3_ws/install/g03_prii3_turtlesim/share/g03_prii3_turtlesim/launch

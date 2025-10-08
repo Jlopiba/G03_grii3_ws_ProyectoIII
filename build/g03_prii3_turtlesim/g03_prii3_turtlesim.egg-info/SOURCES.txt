@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+g03_prii3_turtlesim/__init__.py
+g03_prii3_turtlesim/auto_turtle.py
+g03_prii3_turtlesim/control_services.py
+g03_prii3_turtlesim.egg-info/PKG-INFO
+g03_prii3_turtlesim.egg-info/SOURCES.txt
+g03_prii3_turtlesim.egg-info/dependency_links.txt
+g03_prii3_turtlesim.egg-info/entry_points.txt
+g03_prii3_turtlesim.egg-info/requires.txt
+g03_prii3_turtlesim.egg-info/top_level.txt
+g03_prii3_turtlesim.egg-info/zip-safe
+launch/auto_turtle_launch.py
+launch/draw_group.launch.py
+resource/g03_prii3_turtlesim
