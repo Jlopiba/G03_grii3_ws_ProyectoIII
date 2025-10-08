@@ -3,7 +3,8 @@ PASOS PARA HACER FUNCIONAR LA APLICACIÓN
 
 1-Abrir una terminal y situarse en el workspace:
     cd ~/Proyecto3/g03_prii3_ws
-
+    Comprobar versiones de ROS: printenv | grep ROS
+    
 2-Cargar el entorno de ROS2 y del workspace:
     source /opt/ros/foxy/setup.bash
     source install/setup.bash
