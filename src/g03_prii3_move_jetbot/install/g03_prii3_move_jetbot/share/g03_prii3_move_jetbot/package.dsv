@@ -1,0 +1,9 @@
+source;share/g03_prii3_move_jetbot/hook/pythonpath.ps1
+source;share/g03_prii3_move_jetbot/hook/pythonpath.dsv
+source;share/g03_prii3_move_jetbot/hook/pythonpath.sh
+source;share/g03_prii3_move_jetbot/hook/ament_prefix_path.ps1
+source;share/g03_prii3_move_jetbot/hook/ament_prefix_path.dsv
+source;share/g03_prii3_move_jetbot/hook/ament_prefix_path.sh
+source;../../build/g03_prii3_move_jetbot/share/g03_prii3_move_jetbot/hook/pythonpath_develop.ps1
+source;../../build/g03_prii3_move_jetbot/share/g03_prii3_move_jetbot/hook/pythonpath_develop.dsv
+source;../../build/g03_prii3_move_jetbot/share/g03_prii3_move_jetbot/hook/pythonpath_develop.sh
