@@ -4,11 +4,12 @@
   <name>g03_prii3_move_jetbot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="jlopiba1@upv.edu.es">usuario</maintainer>
+  <maintainer email="jjcarcas@upv.edu.es">jorge</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
   <depend>geometry_msgs</depend>
+  <depend>std_srvs</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>

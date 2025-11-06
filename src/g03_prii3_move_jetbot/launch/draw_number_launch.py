@@ -5,8 +5,8 @@ def generate_launch_description():
     return LaunchDescription([
         Node(
             package='g03_prii3_move_jetbot',
-            executable='move_jetbot',
-            name='move_jetbot',
+            executable='draw_number',
+            name='draw_number',
             output='screen'
         )
     ])
